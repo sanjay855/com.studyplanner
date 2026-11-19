@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">com.studyplanner</string>
+    <string name="welcome_text">Welcome %1$s</string>
+</resources>
